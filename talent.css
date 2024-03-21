@@ -632,7 +632,6 @@ a{
     width: 300px;
     height: 150px;
     padding: 25px;
-,
     border-radius: 8px;
     background-color: #FF772A;
     top: 700px;
@@ -1300,4 +1299,11 @@ a{
     left: 350px;
     margin: auto;
     color: #000000;
+  }
+  .apply{
+   margin: 100px 400px; 
+  }
+  .txt33{
+  margin: 0px 200px;
+  font-family: var(--font-roboto);
   }
